@@ -36,3 +36,7 @@ The network contains three autonomous systems connected using eBGP and iBGP. Sev
 ## Learning Outcomes
 
 This project demonstrates practical experience with enterprise and service-provider BGP technologies including routing policy implementation, route filtering, redundancy, and network troubleshooting.
+
+## Network Topology
+
+<img width="1886" height="897" alt="Screenshot (1990)" src="https://github.com/user-attachments/assets/f2b6b0e5-3a0f-4b5d-a64d-477b1ff1a082" />
